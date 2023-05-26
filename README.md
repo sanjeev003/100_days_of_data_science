@@ -13,3 +13,4 @@ Day  7 :- np.diag() , np.save() , np.load() , np.savetxt() & np.loadtxt() <br>
 Day  8 :- np.reshape() , np.tolist() & np.pad() <br>
 Day  9 :- np.zeros() , np.append() & np.intersect1d() <br>
 Day 10 :- np.unique() , np.argmax() & np.sort() <br>
+Day 11 :- np.where() , np.ravel() & np.zeros_like() <br>
