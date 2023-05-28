@@ -15,3 +15,4 @@ Day  9 :- np.zeros() , np.append() & np.intersect1d() <br>
 Day 10 :- np.unique() , np.argmax() & np.sort() <br>
 Day 11 :- np.where() , np.ravel() & np.zeros_like() <br>
 Day 12 :- np.full_like() , np.tri() & np.random.randint()<br>
+Day 13 :- np.sort() & np.expand_dims() <br>
