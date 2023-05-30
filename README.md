@@ -17,3 +17,4 @@ Day 11 :- np.where() , np.ravel() & np.zeros_like() <br>
 Day 12 :- np.full_like() , np.tri() & np.random.randint()<br>
 Day 13 :- np.sort() & np.expand_dims() <br>
 Day 14 :- np.append() & np.squeeze() <br>
+Day 15 :- Do some slicing today <br>
