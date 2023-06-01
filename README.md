@@ -18,4 +18,5 @@ Day 12 :- np.full_like() , np.tri() & np.random.randint()<br>
 Day 13 :- np.sort() & np.expand_dims() <br>
 Day 14 :- np.append() & np.squeeze() <br>
 Day 15 :- Did some slicing today <br>
-Day  1 :- np.concatenate() & np.column_stack() <br>
+Day 16 :- np.concatenate() & np.column_stack() <br>
+Day 17 :- np.split() , np.count_nonzero() & np.set_printoptions()<br>
