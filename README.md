@@ -20,3 +20,4 @@ Day 14 :- np.append() & np.squeeze() <br>
 Day 15 :- Did some slicing today <br>
 Day 16 :- np.concatenate() & np.column_stack() <br>
 Day 17 :- np.split() , np.count_nonzero() & np.set_printoptions()<br>
+Day 18 :- np.delete() & np.linalg.norm() <br>
