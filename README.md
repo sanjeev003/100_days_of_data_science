@@ -22,3 +22,4 @@ Day 16 :- np.concatenate() & np.column_stack() <br>
 Day 17 :- np.split() , np.count_nonzero() & np.set_printoptions()<br>
 Day 18 :- np.delete() & np.linalg.norm() <br>
 Day 19 :- np.divide() , np.multiply() & np.sqrt() <br>
+Day 20 :- np.allclose(), np.dot() & np.linalg.det() <br>
