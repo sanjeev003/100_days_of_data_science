@@ -24,3 +24,4 @@ Day 18 :- np.delete() & np.linalg.norm() <br>
 Day 19 :- np.divide() , np.multiply() & np.sqrt() <br>
 Day 20 :- np.allclose(), np.dot() & np.linalg.det() <br>
 Day 21 :- np.linalg.eig(), np.linalg.inv() & np.trace()<br>
+Day 22 - np.random.shuffle(), np.argsort(), np.round() & np.roots() <br>
