@@ -28,4 +28,5 @@ Day 22 :- np.random.shuffle(), np.argsort(), np.round() & np.roots() <br>
 Day 23 :- np.polyadd() & np.sign() <br>
 Day 24 :- Deal with Dates today <br>
 Day 25 :- np.char.add(), np.char.rjust(), np.char.zfill() & np.char.split() <br>
-Day 26 :- np.char.strip(), np.char.replace() & np.char.count()<br>
+Day 26 :- np.char.strip(), np.char.replace() & np.char.count() <br>
+Day 27 :- np.char.replace() & np.char.startswith() <br>
