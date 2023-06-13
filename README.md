@@ -31,3 +31,4 @@ Day 25 :- np.char.add(), np.char.rjust(), np.char.zfill() & np.char.split() <br>
 Day 26 :- np.char.strip(), np.char.replace() & np.char.count() <br>
 Day 27 :- np.char.replace() & np.char.startswith() <br>
 Day 28 :- np.char.replace(), np.delete(), np.savetxt() & np.loadtxt() <br>
+Day 29 :- Data processing <br>
