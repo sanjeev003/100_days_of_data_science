@@ -35,5 +35,5 @@ Day  27 :- np.char.replace() & np.char.startswith() <br>
 Day  28 :- np.char.replace(), np.delete(), np.savetxt() & np.loadtxt() <br>
 Day  29 :- Data processing <br>
 Day  30 :- Data Analysis <br>
-Day  31 :- pd.Series() <br>
+Day  31 :- Intro to Pandas pd.Series() <br>
 Day  32 :- pd.Series() & pd.DataFrame <br>
