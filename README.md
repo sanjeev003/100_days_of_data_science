@@ -38,3 +38,4 @@ Day  30 :- Data Analysis <br>
 Day  31 :- Intro to Pandas pd.Series() <br>
 Day  32 :- pd.Series() & pd.DataFrame <br>
 Day  33 :- pd.DataFrame <br>
+Day  34 :- pd.DataFrame() & pd.data_range() <br>
