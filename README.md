@@ -42,3 +42,4 @@ Day  34 :- pd.DataFrame() & pd.data_range() <br>
 Day  35 :- pd.DataFrame() & pd.data_range() <br>
 Day  36 :- pd.DataFrame() & pd.date_range() <br>
 Day  37 :- pd.DataFrame.to_csv() & pd.read_csv() <br>
+Day  38 :- pd.read_csv() <br>
