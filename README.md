@@ -47,3 +47,4 @@ Day  39 :- pd.DataFrame.groupby() & pd.DataFrame.iloc <br>
 Day  40 :- pd.DataFrame.set_index() & pd.DataFrame.drop() <br>
 Day  41 :- data processing <br>
 Day  42 :- data processing & data types <br>
+Day  43 :- grouping & mapping <br>
