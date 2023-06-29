@@ -49,3 +49,4 @@ Day  41 :- data processing <br>
 Day  42 :- data processing & data types <br>
 Day  43 :- grouping & mapping <br>
 Day  44 :- concatenating & exporting <br>
+Day  45 :- mapping & clipping <br>
