@@ -54,3 +54,4 @@ Day  46 :- concatenating & querying <br>
 Day  47 :- filtering & exporting <br>
 Day  48 :- filtering & missing values <br>
 Day  49 :- missing values <br>
+Day  50 :- missing values & random <br>
