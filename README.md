@@ -3,7 +3,7 @@
 This Repo is will enhance your python skills when you are intrested to kick start your carrer in Data Science and I'll continuously keep updating this Repository for 100 days.
 Prior Knowledge in Python (Numpy & Pandas) is required.
 
-I am currently learning it from Udemy and thought of sharing it with you Bud 🤞🤞🤞
+I am currently learning it from Udemy (by Pawel Krakowiak) and thought of sharing it with you Bud 🤞🤞🤞
 <br>
 Day   1 :- np.all() & np.any() <br>
 Day   2 :- np.isnan() , np.allclose() & np.equal() <br>
