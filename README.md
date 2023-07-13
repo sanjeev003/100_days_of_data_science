@@ -63,3 +63,4 @@ Day  55 :- data exploring <br>
 Day  56 :- data preprocessing <br>
 Day  57 :- grouping & querying <br>
 Day  58 :- Querying <br>
+Day  59 :- duplicated data, data types <br>
