@@ -66,4 +66,5 @@ Day  58 :- Querying <br>
 Day  59 :- duplicated data, data types <br>
 Day  60 :- data types <br>
 Day  61 :- categorical data <br>
-Day  62 :- categorical data & dummies
+Day  62 :- categorical data & dummies <br>
+Day  63 :- Data Analysis <br>
