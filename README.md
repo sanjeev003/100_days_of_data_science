@@ -80,3 +80,4 @@ Day  72 :- merging <br>
 Day  73 :- Pivot Tables <br>
 Day  74 :- imputing missing values <br>
 Day  75 :- imputing missing values <br>
+Day  76 :- continuous to categorical data <br>
