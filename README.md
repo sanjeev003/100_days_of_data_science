@@ -80,5 +80,6 @@ Day  72 :- merging <br>
 Day  73 :- Pivot Tables <br>
 Day  74 :- imputing missing values <br>
 Day  75 :- imputing missing values <br>
-Day  76 :- continuous to categorical data <br>
-Day  77 :-data prepocessing <br>
+Day  76 :- continuous to categorical variable <br>
+Day  77 :- data preprocessing <br>
+Day  78 :- data preprocessing <br>
