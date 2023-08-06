@@ -83,6 +83,8 @@ Day  75 :- imputing missing values <br>
 Day  76 :- continuous to categorical variable <br>
 Day  77 :- data preprocessing <br>
 Day  78 :- data preprocessing <br>
-Day 79 - data exploring <br>
-Day 80 - train-test split, logistic regression & prediction <br>
-Day 81 - LabelEncoder & OneHotEncoder <br>
+Day  79 :- data exploring <br>
+Day  80 :- train-test split, logistic regression & prediction <br>
+Day  81 :- LabelEncoder & OneHotEncoder <br>
+Day  82 :- data preprocessing <br>
+Day  83 :- data preprocessing <br>
