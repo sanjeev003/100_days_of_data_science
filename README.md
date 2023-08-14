@@ -88,3 +88,6 @@ Day  80 :- train-test split, logistic regression & prediction <br>
 Day  81 :- LabelEncoder & OneHotEncoder <br>
 Day  82 :- data preprocessing <br>
 Day  83 :- data preprocessing <br>
+Day  84 :- linear regression & polynomial features <br>
+Day  85 :- metrics <br>
+Day 86 - StandardScaler & entropy <br>
