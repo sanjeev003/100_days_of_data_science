@@ -95,3 +95,12 @@ Day  87 :- accuracy, confusion matrix & decision tree <br>
 Day  88 :- decision tree & grid search <br>
 Day  89 :- random forest, grid search & CountVectorizer <br>
 Day  90 :- CountVectorizer & TfidfVectorizer <br>
+Day  91 :- KMeans, AgglomerativeClustering & DBSCAN <br>
+Day  92 :- PCA <br>
+Day  93 :- LocalOutlierFactor & IsolationForest <br>
+Day  94 :- KNeighborsClassifier & Logisticregression <br>
+Day  95 :- association rules <br>
+Day  96 :- CountVectorizer <br>
+Day  97 :- classification & MultinomialNB <br>
+Day  98 :- data preprocessing <br>
+Day  99 :- LinearRegression & R^2 score <br>
