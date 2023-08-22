@@ -1,0 +1,1835 @@
+text
+"From: ab@nova.cc.purdue.edu (Allen B)
+Subject: Re: thining algorithm
+Organization: Purdue University
+Lines: 15
+
+In article <1q7615INNmi@shelley.u.washington.edu> kshin@stein.u.washington.edu  
+(Kevin Shin) writes:
+> I am trying obtain program to preprocess handwriting characters.
+> Like thining algorithm, graph alogrithm.
+> Do anyone know where I can obtain those?
+
+I usually use ""Algorithms for graphics and image processing"" by
+Theodosios Pavlidis, but other people here got them same idea and now
+3 of 4 copies in the libraries have been stolen!
+
+Another reference is ""Digital Image Processing"" by Gonzalez and
+Wintz/Wood, which is widely available but a little expensive ($55
+here- I just checked today).
+
+ab
+"
+"From: stephens@geod.emr.ca (Dave Stephenson)
+Subject: Re: Clementine Science Team Selected
+Nntp-Posting-Host: ngis.geod.emr.ca
+Organization: Dept. of Energy, Mines, and Resources, Ottawa
+Lines: 32
+
+nickh@CS.CMU.EDU (Nick Haines) writes:
+
+>In article <stephens.734792933@ngis> stephens@geod.emr.ca (Dave Stephenson) writes:
+
+>   Remember the first government scientist in the British Empire was
+>   the Astronomer Royal, who was paid [...] from the Department
+>   of Ordinance Budget (i.e. the military). Flamsteed House (the original
+>   RGO) was built out of Army Surplus Scrap ( A gate house at the Tower of
+>   London ?), and paid for by the sale of time expired gunpowder [...]
+
+>At the time, astronomy was vital to the military, in that navigation
+>and cartography were of primary impoortance to the military, and good
+>cartography was impossible without good astronomy.
+
+>The relevance these daysis somewhat less obvious.
+
+>Nick
+
+It still applies, except the astronomy these days is Very Long Baseline
+Radio Astronomy coupled to GPS and Satellite Laser Ranging. The data
+from NASA's and the Naval Observatory's (among others) is a vital 
+source of data for studies into crustal dynamics, Earth rotation, and
+purturbations. Every time there is a leap second added to the New Year,
+remember the military and science are still co-habiting nicely. The
+same VLBI was used to track Gallileo as it passed the Earth, and used
+so little fuel that it can afford to observe Ida. 
+ 
+--
+Dave Stephenson
+Geodetic Survey of Canada
+Ottawa, Ontario, Canada
+Internet: stephens@geod.emr.ca
+"
+"From: dotzlaw@ccu.umanitoba.ca (Helmut Dotzlaw)
+Subject: Anti-aliasing utility wanted
+Nntp-Posting-Host: murphy.biochem.umanitoba.ca
+Organization: University of Manitoba
+Lines: 10
+
+I am currently using POVRay on Mac and was wondering if anyone in netland
+knows of public domain anti-aliasing utilities so that I can skip this step
+in POV, very slow on this machine.  Any suggestions, opinions about
+post-trace anti-aliasing would be greatly appreciated.
+
+             Helmut Dotzlaw
+Dept. of Biochemistry and Molecular Biology
+         University of Manitoba
+            Winnipeg, Canada
+        dotzlaw@ccu.umanitoba.ca
+"
+"From: flb@flb.optiplan.fi (""F.Baube[tm]"")
+Subject: The Area Rule
+X-Added: Forwarded by Space Digest
+Organization: [via International Space University]
+Original-Sender: isu@VACATION.VENARI.CS.CMU.EDU
+Distribution: sci
+Lines: 12
+
+I read it refered to as the ""parabolic cross-section"" rule;
+the idea was that if you plot the area of the fuselage cross-
+section as a function of the point fore-and-aft along the 
+fuselage, a plot that is a **paraboloid** minimizes somethin' 
+or 'nother (to be technical about it).
+
+
+-- 
+* Fred Baube (tm)         *  In times of intellectual ferment,
+* baube@optiplan.fi       * advantage to him with the intellect
+* #include <disclaimer.h> * most fermented
+* May '68, Paris: It's Retrospective Time !!  
+"
+"From: cchung@sneezy.phy.duke.edu (Charles Chung)
+Subject: Re: What if the USSR had reached the Moon first?
+Lines: 24
+Nntp-Posting-Host: bashful.phy.duke.edu
+
+In article <1993Apr20.152819.28186@ke4zv.uucp> gary@ke4zv.uucp (Gary  
+Coffman) writes:
+> >Why do you think at least a couple centuries before there will
+> >be significant commerical activity on the Moon?
+> 
+> Wishful thinking mostly.
+[Lots of stuff about how the commerical moonbase=fantasyland]
+
+Then what do you believe will finally motivate people to leave the  
+earth?  I'm not trying to flame you.  I just want to know where you  
+stand.
+
+-Chuck
+---
+*******************************************************************
+
+	Chuck Chung				(919) 660-2539 (O)
+	Duke University Dept. of Physics	(919) 684-1517 (H)
+	Durham, N.C.      27706			cchung@phy.duke.edu
+	
+	""If pro is the opposite of con, 
+		then what is the opposite of progress?""
+
+*******************************************************************
+"
+"From: HURH@FNAL.FNAL.GOV (Patrick Hurh)
+Subject: Rayshade to DXF,RIB,etc.. (Strata)?
+Organization: FNAL
+Lines: 30
+Distribution: world
+NNTP-Posting-Host: adnet13.fnal.gov
+
+I'm a mac user who wants to use some of the rayshade models I've built
+using macrayshade (rayshade-M) with Stratavision 3d.  Since Stratavision
+can import many different model files I thought this would be a cinch...
+but I haven't been able to find a simple translator that will work on the
+mac.  Any ideas?
+
+Stratavision 3d should be able to import:
+
+DXF
+MiniCAD
+Super 3d
+Swivel 3d professional
+
+out of the box and:
+
+RIB
+IGS
+
+with externals.
+
+Also, if anyone knows of any other translator externals available for
+Stratavision 3d (esp. Rayshade!) please e-mail me!
+
+BTW, I'm going to send mail to the rayshade usrs mailing list tomorrow (I
+misplaced the address) but since most users of rayshade do not seem to
+operate with macs, I'm not getting my hopes up...
+
+thanks in advance,
+
+--patrick.                hurh@fnal.fnal.gov
+"
+"From: bosch@rz.uni-karlsruhe.de (Gerhard Bosch)
+Subject: Re: Newsgroup Split
+Organization: University of Karlsruhe, Germany
+Lines: 55
+Distribution: world
+NNTP-Posting-Host: ifh-hp2.bau-verm.uni-karlsruhe.de
+Mime-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+In article <NERONE.93Apr20085951@sylvester.cc.utexas.edu>, nerone@ccwf.cc.utexas.edu (Michael Nerone) writes:
+|> In article <1quvdoINN3e7@srvr1.engin.umich.edu>, tdawson@engin.umich.edu (Chris Herringshaw) writes:
+|> 
+|>   CH> Concerning the proposed newsgroup split, I personally am not in
+|>   CH> favor of doing this.  I learn an awful lot about all aspects of
+|>   CH> graphics by reading this group, from code to hardware to
+|>   CH> algorithms.  I just think making 5 different groups out of this
+|>   CH> is a wate, and will only result in a few posts a week per group.
+|>   CH> I kind of like the convenience of having one big forum for
+|>   CH> discussing all aspects of graphics.  Anyone else feel this way?
+|>   CH> Just curious.
+|> 
+|> I must agree.  There is a dizzying number of c.s.amiga.* newsgroups
+|> already.  In addition, there are very few issues which fall cleanly
+|> into one of these categories.
+|> 
+|> Also, it is readily observable that the current spectrum of amiga
+|> groups is already plagued with mega-crossposting; thus the group-split
+|> would not, in all likelihood, bring about a more structured
+|> environment.
+|> 
+|> --
+|>    /~~~~~~~~~~~~~~~~~~~\/~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\
+|>   /    Michael Nerone   \""I shall do so with my customary lack of tact; and\
+|>  /   Internet Address:   \since you have asked for this, you will be obliged\
+|> /nerone@ccwf.cc.utexas.edu\to pardon it.""-Sagredo, fictional char of Galileo.\
+
+Hi,
+It might be nice to know, what's possible on different hard ware platforms.
+But usually the hard ware is fixed ( in my case either Unix or DOS- PC ).
+So I'm not much interested in Amiga news. 
+
+In the case of Software, I won't get any comercial software mentioned in this
+newgroup to run on a Unix- platform, so I'm not interested in this information.
+
+I would suggest to split the group. I don't see the problem of cross-posting.
+Then you need to read just 2 newgroups with half the size. 
+
+BUT WHAT WOULD BE MORE IMPORTANT IS TO HAVE A FAQ. THIS WOULD REDUCE THE
+TRAFFIC A LOT.
+
+Sincerely, Gerhard
+-- 
+I'm writing this as a privat person, not reflecting any opinions of the Inst.
+of Hydromechanics,  the University of Karlsruhe, the Land Baden-Wuerttemberg,
+the Federal Republic of Germany and  the European Community.  The address and
+phone number below  are just to get in touch with me.  Everything I'm saying, 
+writing and typing is always wrong ! (Statement necessary to avoid law suits)
+=============================================================================
+-    Dipl.-Ing. Gerhard Bosch M.Sc.             voice:(0721) - 608 3118     -
+-    Institute for Hydromechanic                  FAX:(0721) - 608 4290     -
+-    University of Karlsruhe, Kaiserstrasse 12, 7500-Karlsruhe, Germany     -
+-    Internet: bosch@ifh-hp2.bau-verm.uni-karlsruhe.de                      -
+-      Bitnet: nd07@DKAUNI2.BITNET                                          -
+=============================================================================
+"
+"From: nsmca@aurora.alaska.edu
+Subject: Re: Why not give $1 billion to first year-long moon residents?
+Article-I.D.: aurora.1993Apr19.130503.1
+Organization: University of Alaska Fairbanks
+Lines: 21
+Nntp-Posting-Host: acad3.alaska.edu
+
+In article <6ZV82B2w165w@theporch.raider.net>, gene@theporch.raider.net (Gene Wright) writes:
+> With the continuin talk about the ""End of the Space Age"" and complaints 
+> by government over the large cost, why not try something I read about 
+> that might just work.
+> 
+> Announce that a reward of $1 billion would go to the first corporation 
+> who successfully keeps at least 1 person alive on the moon for a year. 
+> Then you'd see some of the inexpensive but not popular technologies begin 
+> to be developed. THere'd be a different kind of space race then!
+> 
+> --
+>   gene@theporch.raider.net (Gene Wright)
+> theporch.raider.net  615/297-7951 The MacInteresteds of Nashville
+====
+If that were true, I'd go for it.. I have a few friends who we could pool our
+resources and do it.. Maybe make it a prize kind of liek the ""Solar Car Race""
+in Australia..
+Anybody game for a contest!
+
+==
+Michael Adams, nsmca@acad3.alaska.edu -- I'm not high, just jacked
+"
+"From: aron@tikal.ced.berkeley.edu (Aron Bonar)
+Subject: Re: Photoshop for Windows
+Organization: University of California, Berkeley
+Lines: 26
+Distribution: world
+NNTP-Posting-Host: tikal.ced.berkeley.edu
+
+In article <1993Apr22.011720.28958@midway.uchicago.edu>, dgf1@quads.uchicago.edu (David Farley) writes:
+|> In article <C5uHIM.JFq@rot.qc.ca> beaver@rot.qc.ca (Andre Boivert) writes:
+|> >
+|> >
+|> >I am looking for comments from people who have used/heard about PhotoShop
+|> >for Windows. Is it good? How does it compare to the Mac version? Is there
+|> >a lot of bugs (I heard the Windows version needs ""fine-tuning)?
+|> >
+|> >Any comments would be greatly appreciated..
+|> >
+|> >Thank you.
+|> >
+|> >Andre Boisvert
+|> >beaver@rot.qc.ca
+|> >
+|> An review of both the Mac and Windows versions in either PC Week or Info
+|> World this week, said that the Windows version was considerably slower
+|> than the Mac.  A more useful comparison would have been between PhotoStyler
+|> and PhotoShop for Windows.  David
+|> 
+
+I don't know about that...I've used Photoshop 2.5 on both a 486dx-50 and a Quadra
+950...I'd say they are roughly equal.  If anything the 486 was faster.
+
+Both systems were running in 24 bit color and had the same amount of RAM (16 megs)
+I also believe the quadra had one of those photoshop accelerators.
+"
+"From: joshuaf@yang.earlham.edu
+Subject: Re: TIFF -> Anything?!
+Organization: Earlham College, Richmond, Indiana
+Lines: 15
+
+In article <1993Apr23.033843.26854@spartan.ac.BrockU.CA>, tmc@spartan.ac.BrockU.CA (Tim Ciceran) writes:
+> There is a program called Graphic Workshop you can FTP from
+> wuarchive.  The file is in the msdos/graphics directory and
+> is called ""grfwk61t.zip.""  This program should od everthing
+> you need.
+> 
+> -- 
+> 
+> TMC
+> (tmc@spartan.ac.BrockU.ca)
+
+
+THANKS!  It did work, and it is just what I needed thanks...
+
+Joshuaf
+"
+"From: kruzifix@netcom.com (Living On The Edge......)
+Subject: IMAGINE for PC??
+Organization: Netcom - Online Communication Services (408 241-9760 guest)
+Lines: 8
+
+Is Impulse shipping IMAGINE for the PC386/486?  How close is it to the
+Amiga's IMAGINE 2.0, in terms of features?
+
+=============================================================================
+  Roland Chia                   |    >>> Air-Cooled >>>                     
+  EMAIL:kruzifix@netcom.com     |             >>> Free-Falling >>>           
+  VOICE:(209)447-9403           |                      >>> Carbon Unit >>>  
+=============================================================================
+"
+"From: henry@zoo.toronto.edu (Henry Spencer)
+Subject: Re: Space Station Redesign, JSC Alternative #4
+Organization: U of Toronto Zoology
+Lines: 14
+
+In article <1ralibINNc0f@cbl.umd.edu> mike@starburst.umd.edu (Michael F. Santangelo) writes:
+>... The only thing
+>that scares me is the part about simply strapping 3 SSME's and
+>a nosecone on it and ""just launching it.""  I have this vision
+>of something going terribly wrong with the launch resulting in the
+>complete loss of the new modular space station (not just a peice of
+>it as would be the case with staged in-orbit construction).
+
+It doesn't make a whole lot of difference, actually, since they weren't
+building spares of the station hardware anyway.  (Dumb.)  At least this
+is only one launch to fail.
+-- 
+SVR4 resembles a high-speed collision   | Henry Spencer @ U of Toronto Zoology
+between SVR3 and SunOS.    - Dick Dunn  |  henry@zoo.toronto.edu  utzoo!henry
+"
+"From: ednobles@sacam.OREN.ORTN.EDU (Edward d Nobles)
+Subject: windows imagine??!!
+Organization: Oak Ridge National Laboratory
+X-Newsreader: TIN [version 1.1 PL9]
+Lines: 10
+
+
+I sent off for my copy today...   Snail Mail.   Hope to get it back in
+about ten days.  (Impulse said ""a week"".)
+
+I hope it's as good as they claim...
+
+Jim Nobles
+
+(Hope I have what it takes to use it...  :>)
+
+"
+"From: pvconway@cudnvr.denver.colorado.edu
+Subject: TIN files & coutours
+Lines: 15
+
+
+Hi!
+	I am working on a project that needs to create contour lines
+from random data points.  The work that I have done so far tells me that I
+need to look into Triangulated Irregular Networks (TIN), the Delauney
+criiterion, and the Krige method.  Does anyone have any suggestions for
+references, programs and hopefully source code for creating contours.  Any
+help with this or any surface modeling would be greatly appreciated.
+I can be reached at the addresses below:
+
+
+			-- Paul Conway
+
+PVCONWAY@COPPER.DENVER.COLORADO.EDU
+PVCONWAY@CUDNVR.DENVER.COLORADO.EDU
+"
+"From: henry@zoo.toronto.edu (Henry Spencer)
+Subject: Re: HLV for Fred (was Re: Prefab Space Station?)
+Article-I.D.: zoo.C51875.67p
+Organization: U of Toronto Zoology
+Lines: 28
+
+In article <C5133A.Gzx@news.cso.uiuc.edu> jbh55289@uxa.cso.uiuc.edu (Josh Hopkins) writes:
+>>>Titan IV launches ain't cheap 
+>>Granted. But that's because titan IV's are bought by the governemnt. Titan
+>>III is actually the cheapest way to put a pound in space of all US expendable
+>>launchers.
+>
+>In that case it's rather ironic that they are doing so poorly on the commercial
+>market.  Is there a single Titan III on order?
+
+The problem with Commercial Titan is that MM has made little or no attempt
+to market it.  They're basically happy with their government business and
+don't want to have to learn how to sell commercially.
+
+A secondary problem is that it is a bit big.  They'd need to go after
+multi-satellite launches, a la Ariane, and that complicates the marketing
+task quite significantly.
+
+They also had some problems with launch facilities at just the wrong time
+to get them started properly.  If memory serves, the pad used for the Mars
+Observer launch had just come out of heavy refurbishment work that had
+prevented launches from it for a year or so.
+
+There have been a few CT launches.  Mars Observer was one of them.  So
+was that stranded Intelsat, and at least one of its brothers that reached
+orbit properly.
+-- 
+All work is one man's work.             | Henry Spencer @ U of Toronto Zoology
+                    - Kipling           |  henry@zoo.toronto.edu  utzoo!henry
+"
+"From: mccall@mksol.dseg.ti.com (fred j mccall 575-3539)
+Subject: Re: nuclear waste
+Organization: Texas Instruments Inc
+Lines: 32
+
+In <1pp6reINNonl@phantom.gatech.edu> matthew@phantom.gatech.edu (Matthew DeLuca) writes:
+
+>In article <841@rins.ryukoku.ac.jp> will@rins.ryukoku.ac.jp (William Reiken) writes:
+
+>>	Well this pretty much says it.  I have gotten alot of replys to this
+>>and it looks like oil is only on Earth.  So if those greedy little oil companys
+>>who obviously don't give **** about it uses up all the oil then that leaves us
+>>high a dry.
+
+>Greedy little oil companies?  Don't blame them; oil companies just supply the 
+>demand created by you, me, and just about everyone else on the planet.  If we
+>run out, its all our faults.
+
+He also ignores a few other things.  While organics would become
+significantly more expensive were all the oil to disappear (and thus
+some things would no longer be economically feasible), oil is hardly
+an irreplaceable resource any more than most other consumables.  As
+supply decreases, prices rise and alternatives become more
+competetive.  He also needs to consider that there has been an
+estimated 30 years of reserves pretty much as long as anyone has cared
+about petroleum; whatever the current usage rate is, we always seem to
+have about a 30 year reserve that we know about.
+
+[I'm not sure that last figure is still true -- we tend not to look as
+hard when prices are comparatively cheap -- but it was certainly true
+during hte 'oil crisis' days of the 70's.]
+
+-- 
+""Insisting on perfect safety is for people who don't have the balls to live
+ in the real world.""   -- Mary Shafer, NASA Ames Dryden
+------------------------------------------------------------------------------
+Fred.McCall@dseg.ti.com - I don't speak for others and they don't speak for me.
+"
+"From: oved3b@kih.no (Ove Petter Tro)
+Subject: Re: need a viewer for gl files
+Organization: Kongsberg College of Engineering
+Lines: 16
+Distribution: world
+NNTP-Posting-Host: knoll.kih.no
+
+In article <1qu36i$kh7@dux.dundee.ac.uk>, dwestner@cardhu.mcs.dundee.ac.uk (Dominik Westner) writes:
+|> the subject says it all. Is there a PD viewer for gl files (for X)?
+
+Try xviewgl.
+(filename xviewgl_v1.1.tar.Z on lots of bases)
+
+- Ove
+-- 
+- ----------==========###########==========-------- -
+    //                     | ""What do you think
+  \X/ (Yep, me too...)     |  this is?  Real life?""
+Ove Petter Tro,            |    - Ford Fairlane.
+Kongsberg College          |
+of Engineering, Norway     | email: ovep@kih.no
+- ----------==========###########==========-------- -
+
+"
+"From: rbarris@orion.oac.uci.edu (Robert C. Barris)
+Subject: Re: Rumours about 3DO ???
+Nntp-Posting-Host: orion.oac.uci.edu
+Summary: 3DO demonstration
+Organization: University of California, Irvine
+Keywords: 3DO ARM QT Compact Video
+Lines: 73
+
+In article <1993Apr16.212441.34125@rchland.ibm.com> ricardo@rchland.vnet.ibm.com (Ricardo Hernandez Muchado) writes:
+>In article <1993Apr15.164940.11632@mercury.unt.edu>, Sean McMains <mcmains@unt.edu> writes:
+>|> In article <1993Apr15.144843.19549@rchland.ibm.com> Ricardo Hernandez
+>|> Muchado, ricardo@rchland.vnet.ibm.com writes:
+>|> >   And CD-I's CPU doesn't help much either.  I understand it is
+>|> >a 68070 (supposedly a variation of a 68000/68010) running at something
+>|> >like 7Mhz.  With this speed, you *truly* need sprites.
+[snip]
+(the 3DO is not a 68000!!!)
+>|> 
+>|> Ricardo, the animation playback to which Lawrence was referring in an
+>|> earlier post is plain old Quicktime 1.5 with the Compact Video codec.
+>|> I've seen digitized video (some of Apple's early commercials, to be
+>|> precise) running on a Centris 650 at about 30fps very nicely (16-bit
+>|> color depth). I would expect that using the same algorithm, a RISC
+>|> processor should be able to approach full-screen full-motion animation,
+>|> though as you've implied, the processor will be taxed more with highly
+>|> dynamic material.
+[snip]
+>booth there.  I walked by, and they were showing real-time video capture
+>using a (Radious or SuperMac?) card to digitize and make right on the spot
+>quicktime movies.  I think the quicktime they were using was the old one
+>(1.5).
+>
+>   They digitized a guy talking there in 160x2xx something.  It played back quite
+>nicely and in real time.  The guy then expanded the window (resized) to 25x by
+>3xx (320 in y I think) and the frame rate decreased enough to notice that it
+>wasn't 30fps (or about 30fps) anymore.  It dropped to like 15 fps.  Then he
+>increased it just a bit more, and it dropped to 10<->12 fps. 
+>
+>   Then I asked him what Mac he was using... He was using a Quadra (don't know
+>what model, 900?) to do it, and he was telling the guys there that the Quicktime
+>could play back at the same speed even on an LCII.
+>
+>   Well, I spoiled his claim so to say, since a 68040 Quadra Mac was having
+>a little bit of trouble.  And this wasn't even from the hardisk!  This was
+>from memory!
+>
+>   Could it be that you saw either a newer version of quicktime, or some
+>hardware assisted Centris, or another software product running the 
+>animation (like supposedly MacroMind's Accelerator?)?
+>
+>   Don't misunderstand me, I just want to clarify this.
+>
+
+
+The 3DO box is based on an ARM RISC processor, one or two custom graphics
+chips, a DSP, a double-speed CDROM, and 2MB of RAM/VRAM. (I'm a little
+fuzzy on the breakdown of the graphics chips and RAM/VRAM capacity).
+
+It was demonstrated at a recent gathering at the Electronic Cafe in
+Santa Monica, CA. From 3DO, RJ Mical (of Amiga/Lynx fame) and Hal
+Josephson (sp?) were there to talk about the machine and their plan. We
+got to see the unit displaying full-screen movies using the CompactVideo codec
+(which was nice, very little blockiness showing clips from Jaws and Backdraft)
+... and a very high frame rate to boot (like 30fps).
+
+Note however that the 3DO's screen resolution is 320x240.
+
+CompactVideo is pretty amazing... I also wanted to point out that QuickTime
+does indeed slow down when one dynamically resizes material as was stated
+above... I'm sure if the material had been compressed at the large size
+then it would play back fine (I have a Q950 and do this quite a bit). The
+price of generality... personally I don't use the dynamic sizing of movies
+often, if ever. But playing back stuff at its original size is plenty quick
+on the latest 040 machines.
+
+I'm not sure how a Centris/20MHz 040 stacks up against the 25 MHz ARM in
+the 3DO box. Obviously the ARM is faster, but how much?
+
+Rob Barris
+Quicksilver Software Inc.
+rbarris@orion.oac.uci.edu
+"
+"From: chris@sarah.lerc.nasa.gov (Chris Johnston)
+Subject: One day graphics/composites seminar
+Organization: NASA Lewis Research Center, Cleveland, OH
+Lines: 47
+Distribution: world
+Reply-To: chris@sarah.lerc.nasa.gov (Chris Johnston)
+NNTP-Posting-Host: looney.lerc.nasa.gov
+
+SAMPE, NCGA, The University of Akron, and NASA Lewis Research Center
+is sponsoring:
+
+                      COMPUTERS AND COMPOSITES
+
+	A one-day seminar devoted to practical applications of
+	computer workstations for efficient processing, design, and
+			Manufacture of composites
+
+May 18, 1993
+at
+ The University of Akron
+  Akron, Ohio
+
+Speakers on:
+ Advancement in Graphics Visualization   Dr. Jay Horowitz, NASA
+ Integrated Product Development with     Mr. Michael R. Cowen
+  Network Workstations		          Sikorski Aircraft
+ Structural Analysis			 Mr. Brian Fite, NASA
+ Stereolithography			 Mr. Jason Williams, Penn State-Erie
+ Molecular and Physical Modeling	 Dr. Vassilios Galiatsato,
+  of Polymer Curing                       University of Akron
+ Process Modeling of Polymer
+  Matrix Composites			 Dr Ram Upadhyay, GE Corporate R&D
+
+Registration Fees: $75.00 Advance, $100.00 on site (Includes box lunch)
+
+Contact Gary Roberts, NASA Lewis Research Center (216) 433-344
+or write:
+	SAMPE Regional Seminar
+	c/o Gary Roberts
+	NASA Lewis Research Center
+	21000 Brookpark Rd MS 49-1
+	Cleveland, Ohio 44135
+
+Or Email to me, | and I'll get it to Gary.
+		|
+	        \/
+-- 
++---------------------------------------------------------------------------+
+| Chris Johnston                  (216) 433-5029                            |
+| Materials Engineer		  (216) 433-5033                            |
+| NASA Lewis Research Center   Internet: chris@sarah.lerc.nasa.gov          |
+| 21000 Brookpark Rd MS 105-1		 				    |
+| Cleveland, OH 4413 USA	Resistance is futile!			    |
++---------------------------------------------------------------------------+
+
+"
+"From: prestonm@cs.man.ac.uk (Martin Preston)
+Subject: Re: TIFF: philosophical significance of 42
+Lines: 18
+
+In <C5sCGu.1LL@mentor.cc.purdue.edu> ab@nova.cc.purdue.edu (Allen B) writes:
+
+>I've got the 6.0 spec (obviously since I quoted it in my last posting). 
+>My gripe about TIFF is that it's far too complicated and nearly
+>infinitely easier to write than to read,...
+
+Why not use the PD C library for reading/writing TIFF files? It took me a
+good 20 minutes to start using them in your own app.
+
+Martin
+
+--
+---------------------------------------------------------------------------
+|Martin Preston,      (m.preston@manchester.ac.uk)    | Computer Graphics |
+|Computer Graphics Unit, Manchester Computing Centre, |    is just        |
+|University of Manchester,                            |  a load of balls. |
+|Manchester, U.K., M13 9PL     Phone : 061 275 6095   |                   |
+---------------------------------------------------------------------------
+"
+"From: wdwells@nyx.cs.du.edu (David ""Fuzzy"" Wells)
+Subject: Re: Space Debris
+Organization: University of Denver, Dept. of Math & Comp. Sci.
+Lines: 6
+
+>There is a guy in NASA Johnson Space Center  that might answer 
+>your question. I do not have his name right now but if you follow 
+>up I can dig that out for you.
+
+Keesler, Loftus, Potter, Stansbery, Kubriek....?
+
+"
+"From: steinly@topaz.ucsc.edu (Steinn Sigurdsson)
+Subject: Re: Vandalizing the sky
+Organization: Lick Observatory/UCO
+Lines: 23
+NNTP-Posting-Host: topaz.ucsc.edu
+In-reply-to: flb@flb.optiplan.fi's message of Fri, 23 Apr 1993 12:01:38 GMT
+
+In article <C5xr2w.Dnw.1@cs.cmu.edu> flb@flb.optiplan.fi (""F.Baube[tm]"") writes:
+
+   From: ""Phil G. Fraering"" <pgf@srl03.cacs.usl.edu>
+
+   > Finally: this isn't the Bronze Age, [..]
+   > please try to remember that there are more human activities than
+   > those practiced by the Warrior Caste, the Farming Caste, and the
+   > Priesthood.
+
+   Right, the Profiting Caste is blessed by God, and may 
+    freely blare its presence in the evening twilight ..
+
+The Priesthood has never quite forgiven
+the merchants (aka Profiting Caste [sic])
+for their rise to power, has it?
+
+;-)
+
+*  Steinn Sigurdsson   			Lick Observatory      	*
+*  steinly@lick.ucsc.edu 		""standard disclaimer""  	*
+*  Ya know... you penguin types offend me. ...			*
+*  My Gosh... Life is offensive!!   				*
+*  Offensensitivity.		- BB 1984			*
+"
+"From: rych@festival.ed.ac.uk (R Hawkes)
+Subject: 3DS: Where did all the texture rules go?
+Lines: 21
+
+Hi,
+
+I've noticed that if you only save a model (with all your mapping planes
+positioned carefully) to a .3DS file that when you reload it after restarting
+3DS, they are given a default position and orientation.  But if you save
+to a .PRJ file their positions/orientation are preserved.  Does anyone
+know why this information is not stored in the .3DS file?  Nothing is
+explicitly said in the manual about saving texture rules in the .PRJ file. 
+I'd like to be able to read the texture rule information, does anyone have 
+the format for the .PRJ file?
+
+Is the .CEL file format available from somewhere?
+
+Rych
+
+======================================================================
+Rycharde Hawkes				email: rych@festival.ed.ac.uk
+Virtual Environment Laboratory
+Dept. of Psychology			Tel  : +44 31 650 3426
+Univ. of Edinburgh			Fax  : +44 31 667 0150
+======================================================================
+"
+"From: henry@zoo.toronto.edu (Henry Spencer)
+Subject: Re: Keeping Spacecraft on after Funding Cuts.
+Organization: U of Toronto Zoology
+Lines: 15
+
+In article <19930423.010821.639@almaden.ibm.com> nicho@vnet.ibm.com writes:
+>>Since we don't have the money to keep them going now, how will
+>>changing them to a seperate agency help anything?
+>>
+>How about transferring control to a non-profit organisation that is
+>able to accept donations to keep craft operational.
+
+The problem is, you can't raise adequate amounts of money that way.
+The Viking Fund tried.  They did succeed, in a way, but only because
+of the political impact of their fundraising.  The actual amount of
+money they raised was fairly inconsequential; it would not have kept
+the Viking lander going by itself.
+-- 
+All work is one man's work.             | Henry Spencer @ U of Toronto Zoology
+                    - Kipling           |  henry@zoo.toronto.edu  utzoo!henry
+"
+"From: ajjb@adam4.bnsc.rl.ac.uk (Andrew Broderick)
+Subject: Re: Solar Sail Data
+Keywords: Solar Sail
+Organization: Rutherford Appleton Lab, UK
+Lines: 79
+
+In article <1993Apr15.051746.29848@news.duc.auburn.edu> snydefj@eng.auburn.edu writes:
+>
+>I am looking for any information concerning projects involving Solar
+> Sails
+
+I was at an interesting seminar at work (UK's R.A.L. Space Science
+Dept.) on this subject, specifically on a small-scale Solar Sail
+proposed as a student space project. The guy giving the talk was keen to
+generate interest in the project. I'll typein the handout he gave out at
+the meeting. Here goes : 
+
+			The Microlight Solar Sail
+			-------------------------
+
+1. Introduction
+The solar sail is a well-established concept. Harnessing the pressure of
+sunlight, a spacecraft would have unlimited range. In principle, such a
+vehicle could explore the whole Solar System with zero fuel consumption.
+
+However it is more difficult to design a practical solar sail than most
+people realize. The pressure of sunlight is only about one kilogram per
+square kilometer. Deploying and controlling the large area of aluminized
+fabric which would be necessary to transport a 'conventional' type
+spacecraft is a daunting task. This is why, despite the potential of hte
+idea, no such craft has actually been launched to date.
+
+2.Design
+Recent advances in microelectronics make possible a different concept: a
+tiny sail just a few metres in diameter which could be controlled purely
+be electronics, with no mechanical parts. Several attitude control
+methods are feasible: for example the pressure sunlight exerts on a
+panel of solar cells varies according to whether power is being drawn.
+
+The key components of the craft will be a minute CCD camera developed at
+Edinburgh University which can act as both attitude sensor and data
+gathering device; solar cells providing ~1 watt power for control and
+communication; and a directional radio antenna etched onto the surface
+of the sail itself. Launched as a piggyback payload, the total cost of
+the mission can be limited to a few tens of thousands of dollars.
+
+3.Missions
+The craft would be capable of some ambitious missions. For example:
+a) It could rendezvous with a nearby asteroid from the Apollo or Amor
+groups. Closeup pictures could be transmitted back to Earth at a low bit
+rate.
+b) It could be steered into a lunar polar orbit. Previously unobserved
+areas around the lunar poles could be viewed. By angling the sail to
+reflect sunlight downwards, polar craters whose bases never receive
+sunlight could be imaged. Bright reflections would confirm that
+volatiles such as water ice have become trapped in these
+locations.[Immensely valuable information for setting up a manned lunar
+base, BTW]
+c) It could be sent to rendezvous with a small asteroid or comet
+nucleus. Impacting at low speed, a thin wire probe attached to the craft
+causes it to rebound while capturing a tiny sample is a sharp-edged
+tube, like performing a biopsy. Returning to Earth, the sail acts as an
+ideal re-entry parachute: load per unit area 20 gm/m2 ensures that heat
+is reradiated so efectively that the sail temperature cannot exceed ~300
+deg C. The material sample is recovered, enclosed in a small insulating
+container.
+
+Contact: Colin Jack                              Tel. 0865-200447
+Oxford Mathematical Designs, 131 High Street, Oxford OX1 4DH, England
+
+--------------------------------
+
+This guy would love to hear from anyone interested in this project or
+seeking details or anything, and would be most happy to send you more
+information.
+
+	Andy
+
+
+
+-- 
+                                  ----------------------------------- 
+Andy Jonathan J. Broderick,      | ""I have come that they might have |
+Rutherford Lab., UK              |  life, and have it to the full""   |
+Mail : ajjb@adam2.bnsc.rl.ac.uk  |  - Jesus Christ                   |
+"
+"From: baalke@kelvin.jpl.nasa.gov (Ron Baalke)
+Subject: SIRTF Mission is Still Alive
+Organization: Jet Propulsion Laboratory
+Lines: 114
+Distribution: world
+NNTP-Posting-Host: kelvin.jpl.nasa.gov
+Keywords: SIRTF, JPL
+News-Software: VAX/VMS VNEWS 1.41    
+
+From the ""JPL Universe""
+April 23, 1993
+
+SIRTF is still very much in business
+
+By Mark Whalen
+     In these times of extra-tight NASA budgets, the very
+survival of a number of missions has been uncertain. But thanks
+to major design refinements implemented in recent months, JPL's
+Space Infrared Telescope Facility (SIRTF) -- a major project
+considered to be in trouble a couple of years ago -- is ""alive
+and well,"" according to Project Scientist Michael Werner.
+     A lighter spacecraft, revised orbit and shorter mission have
+added up to a less expensive project with ""tremendous scientific
+power"" and a bright future, said Werner.
+     Designed as a follow-up to the highly successful Infrared
+Astronomical Satellite (IRAS) and Cosmic Background Explorer
+(COBE) missions, SIRTF -- a cryogenically cooled observatory for
+infrared astronomy from space -- is scheduled for launch in 2000
+or 2001 if plans proceed as scheduled.
+     IRAS' pioneering work in space-based infrared astronomy 10
+years ago allowed astronomers to view the Milky Way as never
+before and revealed, among other things, 60,000 galaxies and 25
+comets. It provided a sky survey 1,000 times more sensitive than
+any previously available from ground-based observations. COBE has
+measured the infrared and microwave background radiation on large
+angular scales, and revealed new facts about the early universe.
+     But to illuminate SIRTF's potential, Jim Evans, JPL's
+manager of Astrophysics and Fundamental Physics Pre-Projects,
+recently said that the project is ""1,000 to 1 million times more
+capable than IRAS,"" based on technological advances in infrared
+detector arrays.
+     However, despite the enormous strides in infrared
+exploration SIRTF promised, and the fact that it was cited as the
+highest priority new initiative for all of astronomy in the 1990s
+(by the National Academy of Sciences), it took a ""diet or die""
+directive from NASA Headquarters last year to keep the project
+going, according to Werner.
+     The project is now known as Atlas SIRTF, based on the key
+factor in its new design: The satellite will orbit the sun
+instead of the Earth, permitting the use of an Atlas rocket
+launch instead of the formerly proposed and heavier Titan. ""The
+main advantage of the solar orbit is that you can use all of your
+launch capability for boosting the payload -- you don't have to
+carry up a second rocket to circularize the orbit,"" Werner said.
+The other advantage to a solar orbit, he said, is that ""it's in a
+better thermal environment, away from the heat of the Earth.""
+     Additional major changes in SIRTF's redesign include
+shortening the mission from five to three years and building a
+spacecraft that is less than half as heavy as in the original
+plan -- Atlas SIRTF will weigh 2,470 kilograms (5,400 pounds)
+compared to Titan SIRTF's 5,500 kilograms (12,100 pounds).
+     All of that adds up to ""a less stressful launch
+environment,"" Werner said, and a cost savings of more than $200
+million for the launch, in addition to increased savings in the
+design of the smaller, less massive spacecraft.
+     Werner said SIRTF's redesign came as a result of Congress'
+telling NASA ""you're trying to do too many things. If you want us
+to support SIRTF, which is a good project, develop a plan to see
+how it fits into (NASA's) overall strategy.""
+     Shortly thereafter, SIRTF was named as NASA's highest
+priority ""flagship"" scientific mission by the interdisciplinary
+Space Sciences Advisory Committee, in addition to the blessing
+from the National Academy of Sciences.
+     While the spacecraft and its instruments required descoping
+to keep the project alive, SIRTF's major scientific contribution
+always promised to come about from its advanced infrared detector
+arrays, which will allow images to be developed ""tens of
+thousands of times faster"" than before, according to Evans.
+     ""Up until a couple of years ago,"" Werner said, ""all infrared
+astronomy was done with single detectors -- or very small arrays
+of individually assembled detectors. Since then, the Department
+of Defense has developed a program to produce arrays of tens or
+hundreds of thousands of detectors, rather than just a few, and
+those are very well suited for use on SIRTF.""
+     Werner noted that in addition to dealing with budget
+pressures, Congress is currently watching NASA projects with an
+eye out for any ""technological spinoff.""
+     ""On that question, I think we have some things to say,"" he
+said, ""because the detectors we're using are straight off various
+military developments. Also, SIRTF will be built by the U.S.
+aerospace industry, and it's a real technological and engineering
+challenge in addition to being a tremendous scientific project.
+     ""SIRTF will be used by the entire astronomical community,""
+Werner added, but the revised three-year mission ""puts a premium
+on observing time. We have to educate the user community and
+develop a program that involves early surveys and quick
+turnaround of the data.""
+     Werner said the downsizing of the project required a
+reduction in scope and complexity of SIRTF's three instruments --
+the infrared spectrograph, infrared array camera and multiband
+imaging photometer. However, these reductions will only result in
+losses of efficiency rather than capability, he said.
+     The project hopes to start a ""Phase B"" activity in 1995,
+which will provide a detailed concept for development and design.
+Building the hardware would begin about two years later.
+     Projected cost estimates, Evans said, are $850 million-$950
+million.
+     ""I am very optimistic about SIRTF,"" he said. ""It will
+provide a tremendous return for the investment.""
+     Werner added that an additional benefit from the project
+will be the ""enrichment of our intellectual and cultural
+environment. People on the street are very interested in
+astronomy ... black holes, the possibility of life on other
+planets, the origin of the universe ... and those are the kind of
+questions SIRTF will help answer.""
+                              ###
+     ___    _____     ___
+    /_ /|  /____/ \  /_ /|     Ron Baalke         | baalke@kelvin.jpl.nasa.gov
+    | | | |  __ \ /| | | |     Jet Propulsion Lab |
+ ___| | | | |__) |/  | | |__   M/S 525-3684 Telos | The aweto from New Zealand
+/___| | | |  ___/    | |/__ /| Pasadena, CA 91109 | is part caterpillar and
+|_____|/  |_|/       |_____|/                     | part vegetable.
+
+"
+"From: cywang@ux1.cso.uiuc.edu (Crying Freeman)
+Subject: What's a good assembly VGA programming book?
+Organization: University of Illinois at Urbana
+Lines: 9
+
+Can someone give me the title of a good VGA graphics programming book?
+Please respond by email. Thanks!
+
+			--Yuan
+
+-- 
+Che-Yuan Wang
+cw21219@uxa.cso.uiuc.edu
+cywang@ux1.cso.uiuc.edu
+"
+"From: jroberts@ux4.cso.uiuc.edu (Robertson)
+Subject: ATI GUP and Graphics Wkshop/Win
+Organization: University of Illinois at Urbana
+Lines: 11
+
+I have an ATI Graph. Ultra Pro VLB w/2 megs, and have a small question
+about Graphics Workshop for Windows.  When I exit from it it says my
+current driver can handle on 32768 colors when I am actually in 
+1024x768x65000 color mode.  Is this a driver problem, a GWS error, or
+what?  I am using the 1.5(59) driver under Win 3.1.  It correctly
+states that I can display 16M colors when I switch to 800x600x24bit,
+though.
+Another question- Anybody know of any Viewers that support this card
+other than Windows viewers?
+Any help would be appreciated.
+
+"
+"From: nsmca@aurora.alaska.edu
+Subject: Re: Why not give $1 billion to first year-long moon residents?
+Article-I.D.: aurora.1993Apr19.130922.1
+Organization: University of Alaska Fairbanks
+Lines: 28
+Nntp-Posting-Host: acad3.alaska.edu
+
+In article <1993Apr19.144427.17399@aio.jsc.nasa.gov>, kjenks@gothamcity.jsc.nasa.gov writes:
+> Gene Wright (gene@theporch.raider.net) wrote:
+> : Announce that a reward of $1 billion would go to the first corporation 
+> : who successfully keeps at least 1 person alive on the moon for a year. 
+> : Then you'd see some of the inexpensive but not popular technologies begin 
+> : to be developed. THere'd be a different kind of space race then!
+> 
+> I'm an advocate of this idea for funding Space Station work, and I
+> throw around the $1 billion figure for that ""reward.""  I suggest that
+> you increase the Lunar reward to about $3 billion.
+> 
+> This would encourage private industry to invest in space, which 
+> should be one of NASA's primary goals.
+> 
+> -- Ken Jenks, NASA/JSC/GM2, Space Shuttle Program Office
+>       kjenks@gothamcity.jsc.nasa.gov  (713) 483-4368
+> 
+>      ""Better.  Faster.  Cheaper."" -- Daniel S. Goldin, NASA Administrator
+
+
+Also would maybe get the Russians Involved. After all they do have the resources
+to do it in part.. But they need the capital and the goal..
+
+I wonder if renting the russians resources would be a disqualification?
+
+
+==
+Michael Adams, nsmca@acad3.alaska.edu -- I'm not high, just jacked
+"
+"From: games@max.u.washington.edu
+Subject: SSTO Senatorial (aide) breifing recollections.
+Article-I.D.: max.1993Apr6.125512.1
+Distribution: world
+Lines: 78
+NNTP-Posting-Host: max.u.washington.edu
+
+The following are my thoughts on a meeting that I, Hugh Kelso, and Bob Lilly
+had with an aide of Sen. Patty Murrays.  We were there to discuss SSTO, and
+commercial space.  This is how it went...
+
+
+
+After receiving a packet containing a presentation on the benifits of SSTO,
+I called and tried to schedule a meeting with our local Senator (D) Patty
+Murray, Washington State.  I started asking for an hour, and when I heard
+the gasp on the end of the phone, I quickly backed off to 1/2 an hour.
+Later in that conversation, I learned that a standard appointment is 15 minutes.
+
+We got the standard bozo treatment.  That is, we were called back by an aide,
+who scheduled a meeting with us, in order to determine that we were not
+bozos, and to familiarize himself with the material, and to screen it, to 
+make sure that it was appropriate to take the senators time with that material.
+
+Well, I got allocated 1/2 hour with Sen. Murrays aide, and we ended up talking
+to him for 45 minutes, with us ending the meeting, and him still listening.
+We covered a lot of ground, and only a little tiny bit was DCX specific.  
+Most of it was a single stage reusable vehicle primer.  There was another
+woman there who took copius quantities of notes on EVERY topic that
+we brought up.
+
+But, with Murray being new, we wanted to entrench ourselves as non-corporate
+aligned (I.E. not speaking for boeing) local citizens interentested in space.
+So, we spent a lot of time covering the benifits of lower cost access to
+LEO.  Solar power satellites are a big focus here, so we hit them as becoming 
+feasible with lower cost access, and we hit the environmental stand on that.
+We hit the tourism angle, and I left a copy of the patric Collins Tourism
+paper, with side notes being that everyone who goes into space, and sees the
+atmosphere becomes more of an environmentalist, esp. after SEEING the smog
+over L.A.  We hit on the benifits of studying bone decalcification (which is 
+more pronounced in space, and said that that had POTENTIAL to lead to 
+understanding of, and MAYBE a cure for osteoporosis.  We hit the education 
+whereby kids get enthused by space, but as they get older and find out that
+they havent a hop in hell of actually getting there, they go on to other
+fields, with low cost to orbit, the chances they might get there someday 
+would provide greater incentive to hit the harder classes needed.
+
+We hit a little of the get nasa out of the operational launch vehicle business
+angle.  We hit the lower cost of satellite launches, gps navigation, personal
+communicators, tellecommunications, new services, etc...  Jobs provided
+in those sectors.
+
+Jobs provided building the thing, balance of trade improvement, etc..
+We mentioned that skypix would benifit from lower launch costs.
+
+We left the paper on what technologies needed to be invested in in order
+to make this even easier to do.  And he asked questions on this point.
+
+We ended by telling her that we wanted her to be aware that efforts are
+proceeding in this area, and that we want to make sure that the
+results from these efforts are not lost (much like condor, or majellan),
+and most importantly, we asked that she help fund further efforts along
+the lines of lowering the cost to LEO.
+
+In the middle we also gave a little speal about the Lunar Resource Data 
+Purchase act, and the guy filed it separately, he was VERY interested in it.
+He asked some questions about it, and seemed like he wanted to jump on it,
+and contact some of the people involved with it, so something may actually
+happen immediatly there.
+
+The last two things we did were to make sure that they knew that we
+knew a lot of people in the space arena here in town, and that they
+could feel free to call us any time with questions, and if we didn't know
+the answers, that we would see to it that they questions got to people who
+really did know the answers.
+
+Then finally, we asked for an appointment with the senator herself.  He
+said that we would get on the list, and he also said that knowing her, this
+would be something that she would be very interested in, although they
+do have a time problem getting her scheduled, since she is only in the
+state 1 week out of 6 these days.
+
+All in all we felt like we did a pretty good job.
+
+			John.
+"
+"From: teckjoo@iti.gov.sg (Chua Teck Joo)
+Subject: Visuallib (3D graphics for Windows)
+Organization: Information Technology Institute, National Computer Board, Singapore.
+Lines: 17
+
+
+I am currently looking for a 3D graphics library that runs on MS
+Windows 3.1.  Are there any such libraries out there other than
+Visuallib?  (It must run on VGA and should not require any other
+add-on graphics cards).
+
+For Visuallib, will it run with Metaware High C compiler v3.0?  Any
+email contact for the author of Visuallib?
+
+Any help would be much appreciated.  Thanks.
+
+
+-- 
+* Chua, Teck Joo	    | Information Technology Institute *
+* Email: teckjoo@iti.gov.sg | 71 Science Park Drive	       *
+* Phone: (65) 772-0237 	    | Singapore (0511)		       *
+* Fax:   (65) 779-1827      |			   	       *
+"
+"From: crash@ckctpa.UUCP (Frank ""Crash"" Edwards)
+Subject: Re: forms for curses
+Reply-To: crash%ckctpa@myrddin.sybus.com (Frank ""Crash"" Edwards)
+Organization: Edwards & Edwards Consulting
+Lines: 40
+
+Note the Followup-To: header ...
+
+steelem@rintintin.Colorado.EDU (STEELE MARK A) writes:
+>Is there a collection of forms routines that can be used with curses?
+>If so where is it located?
+
+On my SVR4 Amiga Unix box, I've got -lform, -lmenu, and -lpanel for
+use with the curses library.  Guess what they provide? :-)
+
+Unix Press, ie. Prentice-Hall, has a programmer's guide for these
+tools, referred to as the FMLI (Forms Mgmt Language Interface) and
+ETI (Extended Terminal Interface), now in it's 2nd edition.  It is
+ISBN 0-13-020637-7.
+
+Paraphrased from the outside back cover:
+
+    FMLI is a high-level programming tool for creating menus, forms,
+    and text frames.  ETI is a set of screen management library
+    subroutines that promote fast development of application programs
+    for window, panel, menu, and form manipulation.
+
+The FMLI is a shell package which reads ascii text files and produces
+screen displays for data entry and presentation.  It consists of a
+""shell-like"" environment of the ""fmli"" program and it's database
+files.  It is section 1F in the Unix Press manual.
+
+The ETI are subroutines, part of the 3X manual section, provide
+support for a multi-window capability on an ordinary ascii terminal
+with controls built on top of the curses library.
+
+>Thanks
+>-Mark Steele
+>steelem@rintintin.colorado.edu
+
+-- 
+Frank ""Crash"" Edwards          Edwards & Edwards Consulting
+Voice: 813/786-3675            crash%ckctpa@myrddin.sybus.com, but please
+Data:  813/787-3675            don't ask UUNET to route it -- it's sloooow.
+    There will be times in life when everyone you meet smiles and pats you on
+    the back and tells you how great you are ... so hold on to your wallet.
+"
+"From: sigma@rahul.net (Kevin Martin)
+Subject: Re: CView answers
+Keywords: Stupid Programming
+Nntp-Posting-Host: bolero
+Organization: a2i network
+Lines: 26
+
+In <C5LEvt.1nJ@rahul.net> bryanw@rahul.net (Bryan Woodworth) writes:
+>In <1qlobb$p5a@tuegate.tue.nl> renew@blade.stack.urc.tue.nl (Rene Walter) writes:
+>[Most info regarding dangers of reading from Floppy disks omitted]
+>>unrevcoverable way.  SO BE CAREFUL!  It is incredibly poor programming for a
+>>program to do this...
+>Nevertheless, it is an important bug that needs to be squashed.  I am
+>merely pointing out that it was probably overlooked.  While it is serious,
+>one must keep in mind that it will probably affect at most 5% of the
+>targeted users of CView.
+
+OK, I don't use CView anymore, but I saw that no one had explaind this
+""bug"" in the thread, so here goes:
+
+It is NOT the fault of CView.  It is DOS!  If you leave a file open on a
+floppy drive, then change the disk and do something which updates or closes
+that file, you have a good chance of getting part of the directory and FAT
+from the other disk written to the new disk.  This has always been true,
+and has destroyed data under other programs, not just CView.
+
+The only thing CView can do to improve the situation is to try not to leave
+files open unless it's actively using them (ie, reading and decoding).
+
+-- 
+Kevin Martin
+sigma@rahul.net
+""I gotta get me another hat.""
+"
+"From: kjenks@gothamcity.jsc.nasa.gov
+Subject: Re: space food sticks
+Article-I.D.: aio.1993Apr6.134526.14966
+Organization: NASA/JSC/GM2, Space Shuttle Program Office
+Lines: 17
+X-Newsreader: TIN [version 1.1 PL8]
+
+John Elson (jelson@rcnext.cso.uiuc.edu) wrote:
+: Has anyone ever heard of a food product called ""Space Food Sticks?"" 
+
+I remember those awful things.  They were dry and crumbly, and I
+recall asking my third-grade teacher, Miss G'Francisco, how they
+kept the crumbs from floating around in zero-G.  She had no clue.
+I have not seen anything like them in today's space program.
+
+Some Apollo technology is best forgotten.
+
+-- Ken Jenks, NASA/JSC/GM2, Space Shuttle Program Office
+      kjenks@gothamcity.jsc.nasa.gov  (713) 483-4368
+
+                  ""HERE MEN FROM THE PLANET EARTH
+                    FIRST SET FOOT UPON THE MOON
+                           JULY 1969, A.D.
+                  WE CAME IN PEACE FOR ALL MANKIND.""
+"
+"From: se92psh@brunel.ac.uk (Peter Hauke)
+Subject: Re: TIFF: philosophical significance of 42
+Organization: Brunel University, Uxbridge, UK
+X-Newsreader: TIN [version 1.1 PL8]
+Lines: 20
+
+joachim lous (joachim@kih.no) wrote:
+: ulrich@galki.toppoint.de wrote:
+
+: > Does anyone have any  other suggestions where the 42 came from?
+
+Yep, here's a theory that I once heard bandied around.  Rather than thinking
+of the number think of the sound. For Tea Two. A sort of anagram on Tea For Two,
+Two for Tea, For Tea Two.
+
+:-)
+
+Peter
+
+
+-- 
+***********************************
+* Peter Hauke @ Brunel University *
+*---------------------------------*
+*      se92psh@brunel.ac.uk       *
+***********************************
+"
+"From: zyeh@caspian.usc.edu (zhenghao yeh)
+Subject: Re: Newsgroup Split
+Organization: University of Southern California, Los Angeles, CA
+Lines: 18
+Distribution: world
+NNTP-Posting-Host: caspian.usc.edu
+
+
+In article <1quvdoINN3e7@srvr1.engin.umich.edu>, tdawson@engin.umich.edu (Chris Herringshaw) writes:
+|> Concerning the proposed newsgroup split, I personally am not in favor of
+|> doing this.  I learn an awful lot about all aspects of graphics by reading
+|> this group, from code to hardware to algorithms.  I just think making 5
+|> different groups out of this is a wate, and will only result in a few posts
+|> a week per group.  I kind of like the convenience of having one big forum
+|> for discussing all aspects of graphics.  Anyone else feel this way?
+|> Just curious.
+|> 
+|> 
+|> Daemon
+|> 
+
+I agree with you. Of cause I'll try to be a daemon :-)
+
+Yeh
+USC
+"
+"From: rap@coconut.cis.ufl.edu (Ryan Porter)
+Subject: Re: DMORPH
+Article-I.D.: snoopy.1pqlhnINN8k1
+Organization: Univ. of Florida CIS Dept.
+Lines: 34
+NNTP-Posting-Host: coconut.cis.ufl.edu
+
+In article <1993Apr3.183303.6442@usl.edu> jna8182@ucs.usl.edu (Armstrong Jay N) writes:
+>Can someone please tell me where I can ftp DTA or DMORPH?
+
+DMorf (Dave's Morph, I think is what it means) and DTax (Dave's 
+TGA Assembler) are available in the MSDOS_UPLOADS directory
+on the wuarchive.
+
+They are arjed and bundled with their respective xmemory versions,
+dmorfx.exe and dtax.exe, you can also find a version of aaplay.exe
+there, with which you can view files you create with dta.exe or
+dtax.exe.
+
+I downloaded the whole bunch last week and have been morphing 
+away the afternoons since.  The programmes are all a bit buggy and
+definitely not-ready-to-spread-to-the-masses, but they are very
+well written. 
+
+The interface is frustrating at first, but it gets easy once you
+figure out the tricks.
+
+I have noticed that dmorfx will crash horribly if you try to morph
+without using the splines option.  Not sure why, since I don't have
+the source.  I think it was written for TP 6.0.
+
+If anyone else comes up with any other hints on getting the thing 
+to work right, tell me; it took me several hours the first time
+just to figure out that if I just used the durned splines then 
+it would work...
+
+>JNA
+>jna8182@usl.edu
+
+-Ryan
+rap@cis.ufl.edu
+"
+"From: lipman@oasys.dt.navy.mil (Robert Lipman)
+Subject: Call for presentations: Navy SciViz/VR seminar
+Reply-To: lipman@oasys.dt.navy.mil (Robert Lipman)
+Organization: Carderock Division, NSWC, Bethesda, MD
+Lines: 74
+
+**********************************************************************
+
+		      2ND CALL FOR PRESENTATIONS
+	
+      NAVY SCIENTIFIC VISUALIZATION AND VIRTUAL REALITY SEMINAR
+
+			Tuesday, June 22, 1993
+
+	    Carderock Division, Naval Surface Warfare Center
+	      (formerly the David Taylor Research Center)
+
+			  Bethesda, Maryland
+
+**********************************************************************
+
+SPONSOR: NESS (Navy Engineering Software System) is sponsoring a 
+one-day Navy Scientific Visualization and Virtual Reality Seminar.  
+The purpose of the seminar is to present and exchange information for
+Navy-related scientific visualization and virtual reality programs, 
+research, developments, and applications.
+
+PRESENTATIONS: Presentations are solicited on all aspects of 
+Navy-related scientific visualization and virtual reality.  All 
+current work, works-in-progress, and proposed work by Navy 
+organizations will be considered.  Four types of presentations are 
+available.
+
+     1. Regular presentation: 20-30 minutes in length
+     2. Short presentation: 10 minutes in length
+     3. Video presentation: a stand-alone videotape (author need not 
+	attend the seminar)
+     4. Scientific visualization or virtual reality demonstration (BYOH)
+
+Accepted presentations will not be published in any proceedings, 
+however, viewgraphs and other materials will be reproduced for 
+seminar attendees.
+
+ABSTRACTS: Authors should submit a one page abstract and/or videotape to:
+
+     Robert Lipman
+     Naval Surface Warfare Center, Carderock Division
+     Code 2042
+     Bethesda, Maryland  20084-5000
+
+     VOICE (301) 227-3618;  FAX (301) 227-5753  
+     E-MAIL  lipman@oasys.dt.navy.mil
+
+Authors should include the type of presentation, their affiliations, 
+addresses, telephone and FAX numbers, and addresses.  Multi-author 
+papers should designate one point of contact.
+
+**********************************************************************
+DEADLINES: The abstact submission deadline is April 30, 1993.  
+Notification of acceptance will be sent by May 14, 1993.  
+Materials for reproduction must be received by June 1, 1993.
+**********************************************************************
+
+For further information, contact Robert Lipman at the above address.
+
+**********************************************************************
+
+	  PLEASE DISTRIBUTE AS WIDELY AS POSSIBLE, THANKS.
+
+**********************************************************************
+
+
+Robert Lipman                     | Internet: lipman@oasys.dt.navy.mil
+David Taylor Model Basin - CDNSWC |       or: lip@ocean.dt.navy.mil
+Computational Signatures and      | Voicenet: (301) 227-3618
+   Structures Group, Code 2042    | Factsnet: (301) 227-5753
+Bethesda, Maryland  20084-5000    | Phishnet: stockings@long.legs
+				   
+The sixth sick shiek's sixth sheep's sick.
+
+"
+"From: jkatz@access.digex.com (Jordan Katz)
+Subject: U.S. Space Foundation Speech
+Organization: Express Access Online Communications, Greenbelt, MD USA
+Lines: 94
+Distribution: usa
+NNTP-Posting-Host: access.digex.net
+
+
+                          Speech by Pete Worden
+                                    
+          Delivered Before the U.S. Space Foundation Conference
+                                    
+                       Colorado Springs, Colorado
+                                    
+                             April 15, 1993
+
+
+     What a delightful opportunity to cause some trouble.  For
+providing me this forum I would sincerely like to thank the U.S.
+Space Foundation.  My topic today is the Single Stage Rocket
+Technology rocket or SSRT.  By I intend to speak of more.  How to
+lower the cost and make rapid progress.  SSRT is to my mind --
+and I hope to convince you -- the erupting a new rallying cry for
+our generation in space -- Faster, Cheaper, and Better.
+
+     Faster, Cheaper, Better and SSRT represent the passing of a
+torch from one technical generation to another.  It is a new
+thing to be sure -- but it is also a relearning of old things
+from past masters.
+
+     When we rolled out the SSRT baby two weeks ago, so called
+experts told us it violates the laws of physics -- it made no
+sense.  For example, Dr. Eberhart Rachtin - former president of
+the Aerospace Corp., said of SSRT in the L.A. Times that it,
+""defies the best principles of launching payloads into space."" 
+Well Dr. Rachtin -- you've made us mad!  What are these
+principles that SSRT defies?
+
+     Well I'll tell you.  It violates the principle that you need
+a giant program office to build space hardware.  It violates the
+""fact"" that it takes 20 years to build something new.  And it
+violates the truism that you cant do anything significant for
+less than many billions of dollars.
+
+     It took some of the last generation's experts to teach us
+some new/old lessons.  Werhner Von Braun's first rocket was not a
+Saturn V.  General Schriever's ICBM's didn't take ten years to
+demonstrate.  And the X-1 airplane didn't cost $1 billion.
+
+     It took one of the great engineers of the 1950's to remind
+us of these truths -- Max Hunter.  Max, to remind you, was a
+senior engineer in the Thor IRBM program, and old faster, better,
+cheaper success story.  Max has been persistent in a vision of a
+single stage reusable space launch system since the 1960's. 
+Because he knew it had to be done in affordable steps - Build a
+little, Test a little.
+
+     Next he persuaded us to do a technology demonstration.  We
+didn't solicit a bunch of requirements -- they'd just change
+every few years anyway.  [ not included in the speech -- The
+ALS/NLS has such ephemeral requirements that it would better
+known as ""Shape Shifter"" than ""Space Lifter.""  We didn't spend a
+lot money -- this X-Rocket only cost $60 million.  When's the
+last time we even built a new airplane for that?  And it didn't
+take a lot of time to build -- McDonnell Douglas completed it in
+18 months.  Finally, the government program office consisted of
+one very over-worked Air Force Major -- motivated in part by the
+threat that he'd get to ride on it in a strapped-on lawn chair if
+it ran over cost or schedule.
+
+     As I described what SSRT is -- and isn't keep in mind its
+only a first step.  There are several more steps -- and steps
+that can easily fail -- before the U.S. can field an SSTO.  But
+each step should follow the same principles -- a small management
+team -- a few years technology demonstration -- and a modest
+budget.
+
+     Let me show a few details on SSRT and how it might evolve:
+(See charts)
+
+     I'm embarrassed when my generation is compared with the last
+generation -- the giants of the last great space era, the 1950's
+and 1960's.  They went to the moon - we built a telescope that
+can't see straight.  They soft-landed on Mars - the least we
+could do is soft-land on Earth!
+
+     But we do have an answer.  We can follow their build a
+little, test a little philosophy to produce a truly affordable
+and routine access to space.  I know there are nay sayers among
+you -- those who say SSRT is a stunt.  It needs more thermal
+protection, the engines are wrong, it would be better to land
+horizontally, etc, etc.
+
+     I say to you -- we'll see you at White Sands in June.  You
+bring your view-graphs, and I'll bring my rocketship.  If we do
+what we say we can do, then you let us do the next step.  [ not
+included in the speech:  If we fail -- you still have your
+program offices, staff summary sheets, requirement analyses, and
+decade long programs.]
+
+     I bet on my generation and Max Hunter's idea -- Any Takers?
+"
+"From: edimg@willard.atl.ga.us (Ed pimentel)
+Subject: HELP! Need JPEG / MPEG encod-decode 
+Organization: Willard's House BBS, Atlanta, GA -- +1 (404) 664 8814
+Lines: 41
+
+I am involve in a Distant Learning project and am in need
+of Jpeg and Mpeg encode/decode source and object code.
+This is a NOT-FOR PROFIT project that once completed I
+hope to release to other educational and institutional
+learning centers.
+This project requires that TRUE photographic images be sent
+over plain telephone lines. In addition if there is a REAL Good
+GUI lib with 3D objects and all types of menu classes that can
+be use at both end of the transaction (Server and Terminal End)
+I would like to hear about it.
+ 
+We recently posted an RFD announcing the OTG (Open Telematic Group)
+that will concern itself with the developement of such application
+and that it would incorporate NAPLPS, JPEG, MPEG, Voice, IVR, FAX
+Sprites, Animation(fli, flc, etc...).
+At present only DOS and UNIX environment is being worked on and it
+our hope that we can generate enough interest where all the major
+platform can be accomodated via a plaform independent API/TOOLKIT/SDK
+We are of the mind that it is about time that such project and group
+be form to deal with these issues.
+We want to setup a repository where these files may be access such as
+Simte20 and start putting together a OTG FAQ.
+If you have some or any information that in your opinion would be 
+of interest to the OTG community and you like to see included in our
+first FAQ please send it email to the address below.
+ 
+Thanks in Advance
+ 
+Ed
+P.O. box 95901
+Atlanta Ga. 30347-0901
+(404)985-1198 zyxel 14.4
+epimntl@world.std.com 
+ed.pimentel@gisatl.fidonet.org
+
+
+-- 
+edimg@willard.atl.ga.us (Ed pimentel)
+gatech!kd4nc!vdbsan!willard!edimg
+emory!uumind!willard!edimg
+Willard's House BBS, Atlanta, GA -- +1 (404) 664 8814
+"
+"From: ldaddari@polaris.cv.nrao.edu (Larry D'Addario)
+Subject: Re: Russian Email Contacts.
+In-Reply-To: nsmca@aurora.alaska.edu's message of Sat, 17 Apr 1993 12: 52:09 GMT
+Organization: National Radio Astronomy Observatory
+Lines: 32
+
+It is usually possible to reach people at IKI (Institute for Space
+Research) in Moscow by writing to
+
+	IKIMAIL@esoc1.bitnet
+
+This is a machine at ESA in Darmstadt, Germany; IKI has a dedicated
+phone line to this machine and someone there logs in regularly to
+retrieve mail.
+
+In addition, there are several user accounts belonging to Russian
+scientific institutions on
+
+	<user>@sovam.com
+
+which is a commercial enterprise based in San Francisco that provides
+email services to the former USSR.  For example, fian@sovam.com is the
+""PHysics Institute of the Academy of Sciences"" (initials transliterated
+from Russian, of course).  These connections cost the Russians real
+dollars, even for *received* messages, so please don't send anything
+voluminous or frivilous.
+
+=====================================================================
+Larry R. D'Addario
+National Radio Astronomy Observatory
+
+Addresses   (INTERNET) LDADDARI@NRAO.EDU
+	    (FAX)      +1/804/296-0324 Charlottesville
+		       +1/304/456-2200 Green Bank
+	    (MAIL)     2015 Ivy Road, Charlottesville, VA 22903, USA
+	    (PHONE)    +1/804/296-0245 office, 804/973-4983 home  CHO
+		       +1/304/456-2226 off., -2106 lab, -2256 apt. GB
+=====================================================================
+"
+"From: jbatka@desire.wright.edu
+Subject: Re: Gamma Ray Bursters.  WHere  are they.
+Organization:  Wright State University 
+Lines: 16
+
+I assume that can only be guessed at by the assumed energy of the
+event and the 1/r^2 law.  So, if the 1/r^2 law is incorrect (assume
+some unknown material [dark matter??] inhibits Gamma Ray propagation),
+could it be possible that we are actually seeing much less energetic
+events happening much closer to us?  The even distribution could
+be caused by the characteristic propagation distance of gamma rays 
+being shorter then 1/2 the thickness of the disk of the galaxy.
+
+Just some idle babbling,
+-- 
+
+   Jim Batka  | Work Email:  BATKAJ@CCMAIL.DAYTON.SAIC.COM | Elvis is
+              | Home Email:  JBATKA@DESIRE.WRIGHT.EDU      |   DEAD!
+
+    64 years is 33,661,440 minutes ...
+             and a minute is a LONG time!  - Beatles:  _ Yellow Submarine_
+"
+"From: prb@access.digex.com (Pat)
+Subject: Re: End of the Space Age?
+Organization: Express Access Online Communications USA
+Lines: 30
+Distribution: world
+NNTP-Posting-Host: access.digex.net
+
+
+
+Oddly, enough,  The smithsonian calls the lindbergh years
+the golden age of flight.  I would call it the granite years,
+reflecting the primitive nature of it.  It was  romantic,
+swashbuckling daredevils,  ""those daring young men in their flying
+machines"".  But in reality, it sucked.  Death was a highly likely
+occurence,  and  the environment blew.  Ever see the early navy
+pressure suits,  they were modified  diving suits.  You were ready to
+star in ""plan 9 from outer space"".   Radios  and Nav AIds were
+a joke,  and engines ran on castor oil.  They  picked and called aviators
+""men with iron stomachs"",  and it wasn't due to vertigo.
+
+Oddly enough, now we are in the golden age of flight.  I can hop the
+shuttle to NY for $90 bucks,  now that's golden.
+
+Mercury gemini, and apollo were romantic,  but let's be honest.
+Peeing in bags,  having plastic bags glued to your butt everytime
+you needed a bowel movement.  Living for days inside a VW Bug.
+Romantic,  but not commercial.   The DC-X  points out a most likely
+new golden age.  An age where  fat cigar smoking business men in
+loud polyester space suits will fill the skys with strip malls
+and used space ship lots.
+
+hhhmmmmm,  maybe i'll  retract that golden age bit.   Maybe it was
+better in the old days.  Of course, then we'll have  wally schirra
+telling his great grand children, ""In my day,  we walked on the moon.
+Every day.  Miles.  no buses.  you kids got it soft"".
+
+pat
+"
+"From: renes@ecpdsharmony.cern.ch (Rene S. Dutch student)
+Subject: InterViews graphics package
+Organization: CERN European Lab for Particle Physics
+Lines: 7
+
+
+Hello,
+
+I'm trying out the C++ graphics package InterViews. Besides the man pages
+on the classes, I haven't got any documentation. Is there anything else
+around? Furthermore, can anyone send me a (small!) example program
+which shows how to use these classes together ? I would be very gratefull...
+"
+"From: andrey@cco.caltech.edu (Andre T. Yew)
+Subject: Re: 16 million vs 65 thousand colors
+Organization: California Institute of Technology, Pasadena
+Lines: 28
+NNTP-Posting-Host: punisher.caltech.edu
+
+d9hh@dtek.chalmers.se (Henrik Harmsen) writes:
+
+>1-4 bits per R/G/B gives horrible machbanding visible in almost any picture.
+
+>5 bits per R/G/B (32768, 65000 colors) gives visible machbanding
+
+>color-gradient picture has _almost_ no machbanding. This color-resolution is 
+
+>see some small machbanding on the smooth color-gradient picture, but all in all,
+>There _ARE_ situiations where you get visible mach-banding even in
+>a 24 bit card. If
+>you create a very smooth color gradient of dark-green-white-yellow
+>or something and turn
+>up the contrast on the monitor, you will probably see some mach-banding.
+
+    While I don't mean to damn Henrik's attempt to be helpful here,
+he's using a common misconception that should be corrected.
+
+    Mach banding will occur for any image.  It is not the color
+quantization you see when you don't have enough bits.  It is the
+human eye's response to transitions or edges between intensities.
+The result is that colors near the transistion look brighter on
+the brighter side and darker on the darker side.
+
+--Andre
+
+-- 
+             Andre Yew andrey@cco.caltech.edu (131.215.139.2)
+"
+"From: schmidt@PrakInf.TH-Ilmenau.DE (Schmidt)
+Subject: irit to pov ?
+Keywords: raytracer, format conversion
+Reply-To: schmidt@PrakInf.TH-Ilmenau.DE (Schmidt)
+Organization: Technische Hochschule Ilmenau
+Lines: 8
+Nntp-Posting-Host: merkur.prakinf.tu-ilmenau.de
+
+Has anybody made a converter from irit's .irt or .dat format to
+ .pov format ?
+
+Thanks!
+
+-- 
+Sebastian Schmidt			
+TU Ilmenau Institut f. praktische Informatik 
+"
+"From: ""james kewageshig"" <james.kewageshig@canrem.com>
+Subject: articles on flocking?
+Reply-To: ""james kewageshig"" <james.kewageshig@canrem.com>
+Organization: Canada Remote Systems
+Distribution: comp
+Lines: 17
+
+HI All,
+Can someone point me towards some articles on 'boids' or
+flocking algorithms... ?
+
+Also, articles on particle animation formulas would be nice...
+ ________________________________________________________________________
+|0 ___ ___  ____  ____  ____                                            0|\
+|   \ \//    ||    ||    ||                James Kewageshig              |\|
+|   _\//_   _||_  _||_  _||_      UUCP: james.kewageshig@canrem.com      |\|
+|   N E T W O R K    V I I I    FIDONET:   James Kewageshig - 1:229/15   |\|
+|0______________________________________________________________________0|\|
+ \________________________________________________________________________\|
+---
+ þ DeLuxeý 1.25 #8086 þ Head of Co*& XV$# Hi This is a signature virus. Co
+--
+Canada Remote Systems - Toronto, Ontario
+416-629-7000/629-7044
+"
+"From: ad994@Freenet.carleton.ca (Jason Wiggle)
+Subject: PCX
+Organization: National Capital Freenet, Ottawa, Canada
+Lines: 27
+
+
+Hello
+	HELP!!! please
+		I am a student of turbo c++ and graphics programming
+	and I am having some problems finding algorithms and code
+	to teach me how to do some stuff..
+
+	1) Where is there a book or code that will teach me how
+	to read and write pcx,dbf,and gif files?
+
+	2) How do I access the extra ram on my paradise video board
+	so I can do paging in the higher vga modes ie: 320x200x256
+	800x600x256
+	3) anybody got a line on a good book to help answer these question?
+
+Thanks very much !
+
+send reply's to : Palm@snycanva.bitnet
+
+Peace be
+Blessed be
+Stephen Palm
+"
+"From: zyeh@caspian.usc.edu (zhenghao yeh)
+Subject: Re: Fast wireframe graphics
+Organization: University of Southern California, Los Angeles, CA
+Lines: 14
+Distribution: usa
+NNTP-Posting-Host: caspian.usc.edu
+
+
+In article <C5tK4u.C6t@cs.columbia.edu>, ykim@cs.columbia.edu (Yong Su Kim) writes:
+|> 
+|> I am working on a program to display 3d wireframe models with the user
+|> being able to arbitrarily change any of the viewing parameters.  Also,
+|> the wireframe objects are also going to have dynamic attributes so
+|> that they can move around while the user is ""exploring"" the wireframe
+|> world.
+
+	Why don't you consider PHIGS in X or PEX lib?
+
+	Yeh
+	USC
+
+"
+"From: markus@octavia.anu.edu.au (Markus Buchhorn)
+Subject: HDF readers/viewers
+Organization: Australian National University, Canberra
+Lines: 33
+Distribution: world
+NNTP-Posting-Host: 150.203.5.35
+Originator: markus@octavia
+
+
+
+G'day all,
+
+Can anybody point me at a utility which will read/convert/crop/whatnot/
+display HDF image files ? I've had a look at the HDF stuff under NCSA 
+and it must take an award for odd directory structure, strange storage
+approaches and minimalist documentation :-)
+
+Part of the problem is that I want to look at large (5MB+) HDF files and
+crop out a section. Ideally I would like a hdftoppm type of utility, from
+which I can then use the PBMplus stuff quite merrily. I can convert the cropped
+part into another format for viewing/animation.
+
+Otherwise, can someone please explain how to set up the NCSA Visualisation S/W
+for HDF (3.2.r5 or 3.3beta) and do the above cropping/etc. This is for
+Suns with SunOS 4.1.2.
+
+Any help GREATLY appreciated. Ta muchly !
+
+Cheers,
+	Markus
+
+-- 
+Markus Buchhorn, Parallel Computing Research Facility
+email = markus@octavia.anu.edu.au
+Australian National University, Canberra, 0200 , Australia.
+[International = +61 6, Australia = 06] [Phone = 2492930, Fax = 2490747]
+-- 
+Markus Buchhorn, Parallel Computing Research Facility
+email = markus@octavia.anu.edu.au
+Australian National University, Canberra, 0200 , Australia.
+[International = +61 6, Australia = 06] [Phone = 2492930, Fax = 2490747]
+"
