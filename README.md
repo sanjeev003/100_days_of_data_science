@@ -90,4 +90,8 @@ Day  82 :- data preprocessing <br>
 Day  83 :- data preprocessing <br>
 Day  84 :- linear regression & polynomial features <br>
 Day  85 :- metrics <br>
-Day 86 - StandardScaler & entropy <br>
+Day  86 :- StandardScaler & entropy <br>
+Day  87 :- accuracy, confusion matrix & decision tree <br>
+Day  88 :- decision tree & grid search <br>
+Day  89 :- random forest, grid search & CountVectorizer <br>
+Day  90 :- CountVectorizer & TfidfVectorizer <br>
